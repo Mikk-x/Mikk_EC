@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mikk_EC.iml" filepath="$PROJECT_DIR$/Mikk_EC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mikk-annotations/mikk-annotations.iml" filepath="$PROJECT_DIR$/mikk-annotations/mikk-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mikk-compiler/mikk-compiler.iml" filepath="$PROJECT_DIR$/mikk-compiler/mikk-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mikk-core/mikk-core.iml" filepath="$PROJECT_DIR$/mikk-core/mikk-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mikk-ec/mikk-ec.iml" filepath="$PROJECT_DIR$/mikk-ec/mikk-ec.iml" />
+    </modules>
+  </component>
+</project>
