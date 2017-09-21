@@ -9,10 +9,14 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.mikk.mikk_ec.MainActivity">
+    tools:context="com.mikk.mikk_ec.ExampleActivity">
 
-    <TextView
+
+    <com.joanzapata.iconify.widget.IconTextView
+        android:id="@+id/icon_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"/>
+        android:text="{fa-coffee}"
+        tools:ignore="HardcodedText"/>
+
 </RelativeLayout>
